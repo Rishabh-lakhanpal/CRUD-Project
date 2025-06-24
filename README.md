@@ -1,2 +1,2 @@
 # CRUD-Project
-this is the learning project.
+This is the learning project.
